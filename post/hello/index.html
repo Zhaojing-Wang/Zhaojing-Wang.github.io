@@ -5,11 +5,7 @@
   <meta charset="utf-8" />
 
   
-  <title>
-  Tag → tagA
-  
-   | 京新思考
-</title>
+  <title>Hello</title>
 
   
   
@@ -29,22 +25,27 @@
   
 
   
-  <meta name="author" content="Zhaojing Wang">
-  <meta name="description" content="Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.">
+  <meta name="author" content="Author Name">
+  <meta name="description" content="Cut out summary from your post content here.
+">
 
   
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:site" content="@twitter_username">
-  <meta name="twitter:title" content="京新思考">
-  <meta name="twitter:description" content="Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.">
-  <meta name="twitter:image" content="/images/avatar.png">
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@twitter_username">
+    <meta name="twitter:title" content="Hello">
+    <meta name="twitter:description" content="Cut out summary from your post content here.
+">
+    <meta name="twitter:image" content="/images/cover.jpg">
+  
 
   
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="京新思考">
-  <meta property="og:description" content="Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.">
-  <meta property="og:url" content="/tags/taga/">
-  <meta property="og:image" content="/images/avatar.png">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Hello">
+  <meta property="og:description" content="Cut out summary from your post content here.
+">
+  <meta property="og:url" content="/post/hello/">
+  <meta property="og:image" content="/images/cover.jpg">
 
 
 
@@ -52,8 +53,7 @@
 <meta name="generator" content="Hugo 0.58.2">
 
 
-<link rel="canonical" href="/tags/taga/">
-<link rel="alternate" type="application/rss+xml" href="/tags/taga/index.xml" title="京新思考">
+<link rel="canonical" href="/post/hello/">
 
 <meta name="renderer" content="webkit">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -106,8 +106,12 @@
 
 
 
+<script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.2/dist/medium-zoom.min.js"></script>
 
 
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/video.js@7.3.0/dist/video-js.min.css">
 
 
 
@@ -128,6 +132,8 @@
   <body>
     <div class="suspension">
       <a role="button" aria-label="Go to top" title="Go to top" class="to-top is-hide"><span class="icon icon-up" aria-hidden="true"></span></a>
+      
+        
       
     </div>
     
@@ -152,13 +158,13 @@
         <li class="menu-item
           
           
-          ">
+           is-active">
           <a href="/">Home</a>
         </li>
       
         <li class="menu-item
           
-           is-active
+          
           ">
           <a href="/tags/">Tags</a>
         </li>
@@ -195,30 +201,30 @@
   </nav>
 </header>
 
-  <section class="main post-list">
-    <header class="list-header offscreen">
-      <h2 class="list-label">Posts List</h2>
+  <section class="main post-detail">
+    <header class="post-header">
+      <h1 class="post-title">Hello</h1>
+      <p class="post-meta">@Author Name · Sep 14, 2019 · 1 min read</p>
     </header>
-    
-    
-      
-        <article class="post-entry">
-  <header class="post-header">
-    <h3 class="post-title"><a href="/post/hello/" class="post-link">Hello</a></h3>
-    <p class="post-meta">@Author Name · Sep 14, 2019 · 1 min read</p>
-  </header>
-  
-    <img class="post-cover" src="/images/cover.jpg" alt="Hello" lazyload="on">
-  
-  <p class="post-summary">Cut out summary from your post content here.
-</p>
-  <footer class="post-footer">
-    <a class="read-more" href="/post/hello/">Read More →</a>
-  </footer>
-</article>
+    <article class="post-content"><p>Cut out summary from your post content here.</p>
 
+<p>The remaining content of your post.</p></article>
+    <footer class="post-footer">
       
+      <ul class="post-tags">
+        
+          <li><a href="/tags/taga"><span class="tag">TagA</span></a></li>
+        
+          <li><a href="/tags/tagb"><span class="tag">TagB</span></a></li>
+        
+      </ul>
+      
+      <p class="post-copyright">
+        
+      </p>
+    </footer>
     
+      
     
   </section>
   
@@ -233,8 +239,33 @@
 
 
 
+<script async src="https://cdn.jsdelivr.net/npm/video.js@7.3.0/dist/video.min.js"></script>
 
 
+
+
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']],
+      processEscapes: true,
+      processEnvironments: true,
+      skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+      TeX: { equationNumbers: { autoNumber: "AMS" },
+      extensions: ["AMSmath.js", "AMSsymbols.js"] }
+    },
+  });
+</script>
+<script type="text/x-mathjax-config">
+  // Fix <code> tags after MathJax finishes running. This is a
+  // hack to overcome a shortcoming of Markdown. Discussion at
+  // https://github.com/mojombo/jekyll/issues/199
+  MathJax.Hub.Queue(() => {
+    MathJax.Hub.getAllJax().map(v => v.SourceElement().parentNode.className += ' has-jax');
+  });
+</script>
 
 
 
