@@ -3,37 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/hello/</loc>
-    <lastmod>2019-09-14T15:57:25+08:00</lastmod>
+    <loc>https://zhaojing.tech/categories/</loc>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2019-09-14T15:57:25+08:00</lastmod>
+    <loc>https://zhaojing.tech/post/</loc>
   </url>
   
   <url>
-    <loc>/tags/taga/</loc>
-    <lastmod>2019-09-14T15:57:25+08:00</lastmod>
+    <loc>https://zhaojing.tech/tags/</loc>
   </url>
   
   <url>
-    <loc>/tags/tagb/</loc>
-    <lastmod>2019-09-14T15:57:25+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-09-14T15:57:25+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-09-14T15:57:25+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
+    <loc>https://zhaojing.tech/</loc>
   </url>
   
 </urlset>
