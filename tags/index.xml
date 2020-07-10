@@ -1,22 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 京新思考</title>
-    <link>https://zhaojing.tech/tags/</link>
+    <link>https://zhaojing.wang/tags/</link>
     <description>Recent content in Tags on 京新思考</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Oct 2019 22:22:22 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2020 16:41:03 +0800</lastBuildDate>
     
-	<atom:link href="https://zhaojing.tech/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zhaojing.wang/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>财富之路</title>
+      <link>https://zhaojing.wang/tags/%E8%B4%A2%E5%AF%8C%E4%B9%8B%E8%B7%AF/</link>
+      <pubDate>Sat, 11 Jan 2020 16:41:03 +0800</pubDate>
+      
+      <guid>https://zhaojing.wang/tags/%E8%B4%A2%E5%AF%8C%E4%B9%8B%E8%B7%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>管理</title>
+      <link>https://zhaojing.wang/tags/%E7%AE%A1%E7%90%86/</link>
+      <pubDate>Sun, 03 Nov 2019 19:03:01 +0800</pubDate>
+      
+      <guid>https://zhaojing.wang/tags/%E7%AE%A1%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>纸上谈兵</title>
+      <link>https://zhaojing.wang/tags/%E7%BA%B8%E4%B8%8A%E8%B0%88%E5%85%B5/</link>
+      <pubDate>Sun, 03 Nov 2019 19:03:01 +0800</pubDate>
+      
+      <guid>https://zhaojing.wang/tags/%E7%BA%B8%E4%B8%8A%E8%B0%88%E5%85%B5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>创世</title>
-      <link>https://zhaojing.tech/tags/%E5%88%9B%E4%B8%96/</link>
+      <link>https://zhaojing.wang/tags/%E5%88%9B%E4%B8%96/</link>
       <pubDate>Sun, 20 Oct 2019 22:22:22 +0800</pubDate>
       
-      <guid>https://zhaojing.tech/tags/%E5%88%9B%E4%B8%96/</guid>
+      <guid>https://zhaojing.wang/tags/%E5%88%9B%E4%B8%96/</guid>
       <description></description>
     </item>
     
