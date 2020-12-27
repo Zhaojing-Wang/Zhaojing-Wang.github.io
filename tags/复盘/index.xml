@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 京新思考</title>
-    <link>https://zhaojing.wang/post/</link>
-    <description>Recent content in Posts on 京新思考</description>
+    <title>复盘 on 京新思考</title>
+    <link>https://zhaojing.wang/tags/%E5%A4%8D%E7%9B%98/</link>
+    <description>Recent content in 复盘 on 京新思考</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Dec 2020 14:22:22 +0800</lastBuildDate>
     
-	<atom:link href="https://zhaojing.wang/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zhaojing.wang/tags/%E5%A4%8D%E7%9B%98/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -24,15 +24,6 @@
 　在家庭方面，2020 年倒是没有太大的变化，没能在今年迎来自己的孩子有点遗憾，明年加油吧。
 　年度总结也不写得太长了吧，还是平时多数据，多总结，多思考，多输出。2021 希望自己更快成长。
 　跟 2020 道个别。再见！</description>
-    </item>
-    
-    <item>
-      <title>开篇</title>
-      <link>https://zhaojing.wang/post/2019/10/%E5%BC%80%E7%AF%87/</link>
-      <pubDate>Sun, 20 Oct 2019 22:22:22 +0800</pubDate>
-      
-      <guid>https://zhaojing.wang/post/2019/10/%E5%BC%80%E7%AF%87/</guid>
-      <description>It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way&amp;ndash;in short, the period was so.</description>
     </item>
     
   </channel>
