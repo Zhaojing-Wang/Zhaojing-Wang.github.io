@@ -114,4 +114,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://zhaojing.wang/sitemap.xml
+Sitemap: https://blog.zhaojing.wang/sitemap.xml
